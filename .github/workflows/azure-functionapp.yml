@@ -4,7 +4,7 @@ on:
       - master
 
 env:
-  ResourceGroup: fiveforfiveletsencrypt
+  ResourceGroup: fiveforfivessl
 jobs:
   build:
     runs-on: ubuntu-latest
